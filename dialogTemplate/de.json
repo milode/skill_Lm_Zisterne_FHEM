@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_Zisterne_FHEM",
+    "icon": "time",
+    "description": "Abfrage des fuellstands der zisterne",
+    "slotTypes": [],
+    "intents": []
+}
